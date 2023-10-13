@@ -6,7 +6,14 @@ This is my personal portfolio website.This personal portfolio website is a great
 
 Here are some of the screenshots of the webpage:
 
+LANDING PAGE
+
+![Screenshot 2023-10-13 230759](https://github.com/Boahan/CODSOFT/assets/111555189/a76a85d2-6390-4925-8e8b-93cf03922875)
+
+CONTACT ME
+
 ![Screenshot 2023-10-13 230845](https://github.com/Boahan/CODSOFT/assets/111555189/9758faca-cdbf-42c5-864f-15fc0d13feb0)
+
 
 ![Screenshot 2023-10-13 230830](https://github.com/Boahan/CODSOFT/assets/111555189/95336e95-989f-4be3-9be8-6469ab853d50)
 
@@ -15,8 +22,6 @@ Here are some of the screenshots of the webpage:
 ![Screenshot 2023-10-13 230817](https://github.com/Boahan/CODSOFT/assets/111555189/226d70fd-eece-4a41-9593-758d989d9d48)
 
 ![Screenshot 2023-10-13 230809](https://github.com/Boahan/CODSOFT/assets/111555189/fd372a69-e105-401d-a74d-2941f12ca31d)
-
-![Screenshot 2023-10-13 230759](https://github.com/Boahan/CODSOFT/assets/111555189/a76a85d2-6390-4925-8e8b-93cf03922875)
 
 
 
