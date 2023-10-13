@@ -22,6 +22,8 @@ PROJECTS
 
 ![Screenshot 2023-10-13 230823](https://github.com/Boahan/CODSOFT/assets/111555189/2b336c56-e75e-435d-809c-3baa51867b9e)
 
+TESTIMONIAL
+
 ![Screenshot 2023-10-13 230830](https://github.com/Boahan/CODSOFT/assets/111555189/95336e95-989f-4be3-9be8-6469ab853d50)
 
 CONTACT ME
