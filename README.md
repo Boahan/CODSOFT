@@ -12,7 +12,7 @@ This repository is a parent repository for my UI/UX design projects. These proje
 
 
   
-* Project 2: Landing page
+* Project 2: COC
   
 ![Screenshot 2023-10-15 100203](https://github.com/Boahan/CODSOFT/assets/111555189/abfcfddd-26fe-4319-8453-91e8fd84ec56)
 
