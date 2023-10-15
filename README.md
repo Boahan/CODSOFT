@@ -1,35 +1,30 @@
-## Personal Portfolio
+**README.md**
 
-This is my personal portfolio website.This personal portfolio website is a great way to showcase your HTML and CSS skills. It is simple, yet effective, and it allows you to highlight your key skills and experience in a visually appealing way.
+**Parent Repository for UI/UX Design Projects**
 
-### Images
+This repository is a parent repository for my UI/UX design projects. These projects are mostly front-end and are made by me to showcase and refine my front-end skills.
 
-Here are some of the screenshots of the webpage:
+**Project List**
 
-LANDING PAGE
+* Project 1: Portfolio
+* 
+![Screenshot 2023-10-13 230759](https://github.com/Boahan/CODSOFT/assets/111555189/e01357a7-7b5d-4453-bd26-71a406dce090)
 
-![Screenshot 2023-10-13 230759](https://github.com/Boahan/CODSOFT/assets/111555189/a76a85d2-6390-4925-8e8b-93cf03922875)
 
-ABOUT ME
+  
+* Project 2: Landing page
+* 
+![Screenshot 2023-10-15 100203](https://github.com/Boahan/CODSOFT/assets/111555189/abfcfddd-26fe-4319-8453-91e8fd84ec56)
 
-![Screenshot 2023-10-13 230809](https://github.com/Boahan/CODSOFT/assets/111555189/fd372a69-e105-401d-a74d-2941f12ca31d)
+  
 
-SKILLS
+**Contributing**
 
-![Screenshot 2023-10-13 230817](https://github.com/Boahan/CODSOFT/assets/111555189/226d70fd-eece-4a41-9593-758d989d9d48)
+If you would like to contribute to any of my projects, please fork this repository and create a new branch for your changes. Once you are finished, please submit a pull request.
 
-PROJECTS
+**Technology used**
 
-![Screenshot 2023-10-13 230823](https://github.com/Boahan/CODSOFT/assets/111555189/2b336c56-e75e-435d-809c-3baa51867b9e)
-
-TESTIMONIAL
-
-![Screenshot 2023-10-13 230830](https://github.com/Boahan/CODSOFT/assets/111555189/95336e95-989f-4be3-9be8-6469ab853d50)
-
-CONTACT ME
-
-![Screenshot 2023-10-13 230845](https://github.com/Boahan/CODSOFT/assets/111555189/9758faca-cdbf-42c5-864f-15fc0d13feb0)
-
+* HTML | CSS | JAVASCRIPT
 
 ### Contact
 
@@ -42,4 +37,4 @@ If you would like to contact me, you can reach me at shaswatgusain1@gmail.com.
 
 ### Copyright
 
-Copyright &copy; 2023 Shaswat Gusain
+All of my projects are licensed under the MIT License. Copyright &copy; 2023 Shaswat Gusain
