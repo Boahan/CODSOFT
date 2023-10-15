@@ -1,12 +1,12 @@
-## Personal Portfolio
+## LANDING PAGE
 
-This is a UI/UX webpage.This webpage was a great way for me to showcase my HTML and CSS skills. It is simple, yet effective, and experience in a visually appealing way. I have used video in the main landing page and created sub landing pages for better segregation.
+It is a simple landing page. This webpage was a great way for me to showcase my HTML and CSS skills. It is simple, yet effective, and experience in a visually appealing way. I have used video in the main landing page and created sub landing pages for better segregation.
 
 ### Images
 
 Here are some of the screenshots of the webpage:
 
-LANDING PAGE
+MAIN LANDING PAGE
 
 ![Screenshot 2023-10-15 100203](https://github.com/Boahan/CODSOFT/assets/111555189/c2cd21b6-8f92-4013-9746-b1415ca9b761)
 
