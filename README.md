@@ -7,13 +7,13 @@ This repository is a parent repository for my UI/UX design projects. These proje
 **Project List**
 
 * Project 1: Portfolio
-* 
+  
 ![Screenshot 2023-10-13 230759](https://github.com/Boahan/CODSOFT/assets/111555189/e01357a7-7b5d-4453-bd26-71a406dce090)
 
 
   
 * Project 2: Landing page
-* 
+  
 ![Screenshot 2023-10-15 100203](https://github.com/Boahan/CODSOFT/assets/111555189/abfcfddd-26fe-4319-8453-91e8fd84ec56)
 
   
