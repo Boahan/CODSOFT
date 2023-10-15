@@ -40,4 +40,4 @@ If you would like to contact me, you can reach me at shaswatgusain1@gmail.com.
 
 ### Copyright
 
-All of my projects are licensed under the MIT License. Copyright &copy; 2023 Shaswat Gusain
+All of my projects are licensed under the MIT License. Copyright &copy; 2023 Shaswat Gusain.
