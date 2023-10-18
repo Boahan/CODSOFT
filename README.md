@@ -10,6 +10,8 @@ This repository is a parent repository for my UI/UX design projects. These proje
 ![Screenshot 2023-10-13 230759](https://github.com/Boahan/CODSOFT/assets/111555189/e01357a7-7b5d-4453-bd26-71a406dce090)
 
 
+
+
   
 * Project 2: COC (https://github.com/Boahan/CODSOFT/tree/main/COC)
   
@@ -18,9 +20,11 @@ This repository is a parent repository for my UI/UX design projects. These proje
 
 
 
+
 * Project 3: Calculator (https://github.com/Boahan/CODSOFT/tree/main/Calculator)
   
-![Screenshot 2023-10-15 100203](https://github.com/Boahan/CODSOFT/assets/111555189/abfcfddd-26fe-4319-8453-91e8fd84ec56)
+![image](https://github.com/Boahan/CODSOFT/assets/111555189/d35a91b1-47f6-4f25-91e3-55d2d42ddf65)
+
 
 
 **Technology used**
