@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-This is my personal portfolio website.This personal portfolio website is a great way to showcase your HTML and CSS skills. It is simple, yet effective, and it allows you to highlight your key skills and experience in a visually appealing way.
+This is my personal portfolio website.This personal portfolio website was a great way to showcase my HTML and CSS skills. It is simple, yet effective, and it allows me to highlight my key skills and experience in a visually appealing way.
 
 ### Images
 
