@@ -16,6 +16,13 @@ This repository is a parent repository for my UI/UX design projects. These proje
 ![Screenshot 2023-10-15 100203](https://github.com/Boahan/CODSOFT/assets/111555189/abfcfddd-26fe-4319-8453-91e8fd84ec56)
 
 
+
+
+* Project 3: Calculator (https://github.com/Boahan/CODSOFT/tree/main/Calculator)
+  
+![Screenshot 2023-10-15 100203](https://github.com/Boahan/CODSOFT/assets/111555189/abfcfddd-26fe-4319-8453-91e8fd84ec56)
+
+
 **Technology used**
 
 * HTML | CSS | JAVASCRIPT
