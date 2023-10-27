@@ -2,6 +2,10 @@
 
 It is a simple landing page. This webpage was a great way for me to showcase my HTML and CSS skills. It is simple, yet effective, and experience in a visually appealing way. I have used video in the main landing page and created sub landing pages for better segregation.
 
+## Website
+
+https://friendly-entremet-31b360.netlify.app/
+
 ### Images
 
 Here are some of the screenshots of the webpage:
