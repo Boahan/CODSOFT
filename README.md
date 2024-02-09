@@ -10,6 +10,9 @@ This repository is a parent repository for my UI/UX design projects. These proje
 ![Screenshot 2023-10-13 230759](https://github.com/Boahan/CODSOFT/assets/111555189/e01357a7-7b5d-4453-bd26-71a406dce090)
 
 
+![image](https://github.com/Boahan/CODSOFT/assets/111555189/d4daf611-27dd-4c4e-a71a-93b7e2de75d4)
+
+
 
 
   
